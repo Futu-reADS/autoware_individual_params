@@ -10,9 +10,12 @@ sensor_kit_base_link:
     x:  0.29
     y: -0.14
     z: -0.73
-    roll: -3.14159
+    # roll:  -3.14159
+    # pitch: 0.0
+    # yaw:   -1.5708
+    roll:  0.0
     pitch: 0.0
-    yaw:  -1.5708
+    yaw:   0.0
 #  ydlidar_front_base_link: # Okinawa testbed planned
 #    x:  0.22
 #    y:  0.0
