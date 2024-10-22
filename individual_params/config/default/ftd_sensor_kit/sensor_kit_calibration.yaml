@@ -7,23 +7,13 @@ sensor_kit_base_link:
     pitch: 0.0
     yaw: 0.0
   ydlidar_front_base_link:  # Okinawa testbed 20240702
-    x:  0.29
-    y: -0.14
-    z: -0.73
-    # roll:  -3.14159
-    # pitch: 0.0
-    # yaw:   -1.5708
+    x: 0.133
+    y: 0.0
+    z: -0.75
     roll:  0.0
     pitch: 0.0
     yaw:   0.0
-#  ydlidar_front_base_link: # Okinawa testbed planned
-#    x:  0.22
-#    y:  0.0
-#    z: -0.50
-#    roll:  0.0
-#    pitch: 0.0
-#    yaw:   1.5708
-  ydlidar_rear_base_link:   # Okinawa testbed planned
+  ydlidar_rear_base_link:  # Okinawa testbed planned
     x: -1.06
     y:  0.0
     z: -0.57
@@ -31,9 +21,9 @@ sensor_kit_base_link:
     pitch: 0.0
     yaw:   0.0
   tamagawa/imu_link:        # Okinawa testbed center
-    x: -0.5
+    x: -0.05
     y: 0.0
-    z: -0.50
+    z: -0.45
     roll: 3.14159265359
     pitch: 0.0
     yaw: 3.14159265359
