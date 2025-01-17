@@ -6,14 +6,14 @@ sensor_kit_base_link:
     roll: 0.0
     pitch: 0.0
     yaw: 0.0
-  ydlidar_front_base_link:  # Okinawa testbed 20240702
+  ydlidar_front_base_link:  # ParcelPal in Tianjin China 20250117
     x: 0.133
     y: 0.0
     z: -0.75
     roll:  0.0
     pitch: 0.0
     yaw:   0.0
-  ydlidar_rear_base_link:  # Okinawa testbed planned
+  ydlidar_rear_base_link:  # Non in ParcelPal in Tianjin China
     x: -1.06
     y:  0.0
     z: -0.57
@@ -21,9 +21,9 @@ sensor_kit_base_link:
     pitch: 0.0
     yaw:   0.0
   tamagawa/imu_link:        # Okinawa testbed center
-    x: -0.05
+    x: -0.30
     y: 0.0
-    z: -0.45
-    roll: 3.14159265359
+    z: -0.795
+    roll: 0.0
     pitch: 0.0
-    yaw: 3.14159265359
+    yaw: -3.14159265359
