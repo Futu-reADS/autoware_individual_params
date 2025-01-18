@@ -10,9 +10,9 @@ sensor_kit_base_link:
     x: 0.133
     y: 0.0
     z: -0.75
-    roll:  0.0
+    roll:  -3.14159
     pitch: 0.0
-    yaw:   0.0
+    yaw:   -1.5708
   ydlidar_rear_base_link:  # Non in ParcelPal in Tianjin China
     x: -1.06
     y:  0.0
